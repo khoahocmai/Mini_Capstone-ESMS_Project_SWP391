@@ -1,6 +1,9 @@
-# ESMS
+<h1> EXAM SCHEDULE MANAGEMENT SYSTEM <br> ỨNG DỤNG QUẢN LÝ COI THI CHO FU HCM ( ESMS ) </h1>
+This is a "<i>Mini Capstone Project</i>" of FPT University Students in semester 5.<br>
 
-How to use  
+<h2> Code Front-end for project </h2>
+
+How to use project
   - clone by "git clone ..."  
   - install by "npm i"  
   - run by "npm run dev"  
